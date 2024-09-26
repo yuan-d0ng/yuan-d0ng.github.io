@@ -1,14 +1,14 @@
 title:              Personal Site
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+email:              yuan.dong@duke.edu
+description:        Philosophy and more
+author:             Yuan Dong
+baseurl:            "/yuan-dong.site"
 url:                "https://yuan-dong.site"
 
 # Social Profiles
-twitter_username:   SBootstrap
+twitter_username:   
 github_username:    yuan-d0ng
-facebook_username:  StartBootstrap
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
